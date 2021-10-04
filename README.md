@@ -31,5 +31,10 @@
 <h2> My Blog Posts </h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [DagsHub → Github for Data Science](https://pub.towardsai.net/dagshub-github-for-data-science-92e77adbc9a3?source=rss-5a7cdb63bae------2)
+- [Advancing Neural Search with Jina 2.0](https://pub.towardsai.net/advancing-neural-search-with-jina-2-0-bb9c12c574c0?source=rss-5a7cdb63bae------2)
+- [GPT-3: A Data Scientist in the Making](https://pub.towardsai.net/gpt-3-a-data-scientist-in-making-4e6fe4abe0c4?source=rss-5a7cdb63bae------2)
+- [Prompt Engineering: The Career of Future](https://medium.com/nerd-for-tech/prompt-engineering-the-career-of-future-2fb93f90f117?source=rss-5a7cdb63bae------2)
+- [Next-Gen Search powered by Jina](https://pub.towardsai.net/next-gen-search-powered-by-jina-dca6953ca068?source=rss-5a7cdb63bae------2)
 <!-- BLOG-POST-LIST:END -->
 
