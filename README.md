@@ -1,3 +1,7 @@
+<div align="center">
+<img width="100%" height = "280px" src="https://github.com/Shubhamsaboo/Shubhamsaboo/blob/main/kdl_cover.png" alt="cover" />
+</div>
+
 <h1> Hi there, I'm Shubham <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
