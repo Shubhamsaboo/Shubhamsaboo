@@ -5,7 +5,7 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="book_bg.png"/>
+<img width="55%" align="right" alt="Github" src="bg_book.png"/>
 
 
 - 🚀 Building **[Jina AI](https://github.com/jina-ai/jina)** to empower the next generation of search ecosystem!
