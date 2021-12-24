@@ -10,13 +10,13 @@
 
 - 🚀 Building **[Jina AI](https://github.com/jina-ai/jina)** to empower the next generation of search ecosystem!
 
-- 🔭 Building **[Kairos Data labs](https://www.linkedin.com/company/kairos-data-labs)** to minimize the gap between state-of-the-art AI innovations and applied AI applications within organizations.
+- 🔭 Building **[Kairos Data labs](https://www.linkedin.com/company/kairos-data-labs)** to reduce the friction between ideas and execution within organizations.
 
-- 📚 Co-authoring _**"GPT-3: Building innovative NLP Products using Large Language Models"**_ with **[O'Reilly Media Publications](https://www.oreilly.com)**
+- 📚 Co-authoring _**["GPT-3: Building innovative NLP Products using Large Language Models"](https://www.oreilly.com/library/view/gpt-3/9781098113612/)**_ by O'Reilly Media Publications
 
-- 🌱 I’m looking to collaborate on building Open Source communities, organizing meetups and knowledge sharing sessions in the area of semantic serach (Jina AI), NLP, GPT-3 and our evolution to Nocode.
+- 🌱 I’m looking to collaborate on building Open Source communities, organizing meetups and knowledge sharing sessions in the area of semantic serach NLP, GPT-3 and the evolution of Nocode.
 
-- 💬 Talk to me about **_NLP_**, **_GPT-3_** and all things **_Open Source_**! 
+- 💬 Talk to me about **_GPT-3_**, **_Nocode_** and all things **_Open Source_**! 
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
