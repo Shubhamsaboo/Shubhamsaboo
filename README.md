@@ -1,4 +1,4 @@
-<h1> Hi there, I'm Shubham <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hi there, I'm Shubham 👋 </h1>
 <p align='center'>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Shubhamsaboo.Shubhamsaboo)
@@ -19,7 +19,7 @@
 - 💬 Talk to me about **_GPT-3_**, **_Nocode_** and all things **_Open Source_**! 
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<h2> Connect with me 🤝 </h2>
 <p align="center">
 <strong>
 
