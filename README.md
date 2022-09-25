@@ -7,13 +7,13 @@
 
 <img width="55%" align="right" alt="Github" src="bg_book.png"/>
 
-- 📚 Co-author of _**["GPT-3: Building innovative NLP Products using Large Language Models"](https://www.amazon.com/GPT-3-Building-Innovative-Products-Language/dp/1098113624/ref=sr_1_12?crid=1X2IQ2BDCJ6Y7&keywords=gpt3&qid=1649507805&sprefix=%2Caps%2C777&sr=8-12)**_ by O'Reilly Media Publications
+- 📚 Co-author of _**["GPT-3: Building innovative NLP Products using Large Language Models"](https://www.amazon.com/GPT-3-Building-Innovative-Products-Language/dp/1098113624/ref=sr_1_12?crid=1X2IQ2BDCJ6Y7&keywords=gpt3&qid=1649507805&sprefix=%2Caps%2C777&sr=8-12)**_ by O'Reilly Media Publication.
 
 - 🚀 Senior AI Evangelist at **[Jina AI](https://github.com/jina-ai/jina)**, an opensource ecosystem of products that enables building multi-modal and corss-modal applications on the cloud.
 
 - 🔭 Building **[Kairos Data labs](https://www.linkedin.com/company/kairos-data-labs)** to reduce the friction between ideas and execution within organizations.
 
-- 🌱 I’m looking to collaborate on building Open Source communities, organizing meetups and knowledge sharing sessions in the area of semantic serach NLP, GPT-3 and the evolution of Nocode.
+- 🌱 I’m looking to collaborate on building Open Source communities, organizing meetups and knowledge sharing sessions in the area of NLP, LLM, GPT-3 and the evolution of Nocode.
 
 - 💬 Talk to me about **_GPT-3_**, **_Nocode_** and all things **_Open Source_**! 
 
