@@ -5,17 +5,15 @@
 
 <h2> About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="bg_book.png"/>
+- 📚 Co-author of _**"GPT-3: Building innovative NLP Products using Large Language Models"**_ and _**["Neural Search - From Prototype to Production with Jina"](https://www.amazon.com/Neural-Search-Prototype-Production-learning-powered-dp-1801816824/dp/1801816824/ref=mt_other?_encoding=UTF8&me=&qid=1665648486)**_
 
-- 📚 Co-author of _**["GPT-3: Building innovative NLP Products using Large Language Models"](https://www.amazon.com/GPT-3-Building-Innovative-Products-Language/dp/1098113624/ref=sr_1_12?crid=1X2IQ2BDCJ6Y7&keywords=gpt3&qid=1649507805&sprefix=%2Caps%2C777&sr=8-12)**_ by O'Reilly Media Publication.
-
-- 🚀 Senior AI Evangelist at **[Jina AI](https://github.com/jina-ai/jina)**, an opensource ecosystem of products that enables building multi-modal and corss-modal applications on the cloud.
+- 🥑 **Head of Developer Relations** at [Tenstorrrent](https://tenstorrent.com/) focused on bridging the gap between state-of-the-art software and the specialized hardware built for AI. 
 
 - 🔭 Building **[Kairos Data labs](https://www.linkedin.com/company/kairos-data-labs)** to reduce the friction between ideas and execution within organizations.
 
-- 🌱 I’m looking to collaborate on building Open Source communities, organizing meetups and knowledge sharing sessions in the area of NLP, LLM, GPT-3 and the evolution of Nocode.
+- 🌱 I’m looking to meet people working in the area of ML, NLP and Large Language Models with an interest in efficiently and economically training these models for domain specific data to build innovative AI applicaitons.
 
-- 💬 Talk to me about **_GPT-3_**, **_Nocode_** and all things **_Open Source_**! 
+- 💬 Talk to me about **_GPT-3_**, **_NLP_** and all things **_Open Source_**! 
 
 
 <h2> Connect with me 🤝 </h2>
