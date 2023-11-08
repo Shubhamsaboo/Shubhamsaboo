@@ -7,7 +7,7 @@
 
 - 📚 Co-author of _**["GPT-3: The Ultimate Guide To Building NLP Products With OpenAI API"](https://www.amazon.com/GPT-3-Ultimate-Building-Products-OpenAI/dp/1805125222/ref=sr_1_9?keywords=gpt3&qid=1676714335&sr=8-9)**_ and _**["Neural Search - From Prototype to Production with Jina"](https://www.amazon.com/Neural-Search-Prototype-Production-learning-powered-dp-1801816824/dp/1801816824/ref=mt_other?_encoding=UTF8&me=&qid=1665648486)**_
 
-- 🥑 **Head of Developer Relations** at [Tenstorrrent](https://tenstorrent.com/) focused on bridging the gap between state-of-the-art software and the specialized hardware built for AI. 
+- 🥑 **Director of Product Management** at [Tenstorrrent](https://tenstorrent.com/) focused on bridging the gap between state-of-the-art software and the specialized hardware built for AI. 
 
 - 🔭 Building **[Kairos Data labs](https://www.linkedin.com/company/kairos-data-labs)** to reduce the friction between ideas and execution within organizations.
 
