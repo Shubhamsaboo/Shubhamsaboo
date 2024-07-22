@@ -1,7 +1,5 @@
 <h1> Hi there, I'm Shubham 👋 </h1>
-<p align='center'>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Shubhamsaboo.Shubhamsaboo)
+I am an AI product leader with hands-on experience in building and scaling AI products. I have co-authored bestselling books on GPT-3 and Neural Search focusing on practical applications of AI. I assist AI companies in developing strategies to reach larger audiences and effectively position their products in front of the right customers.
 
 <h2> About Me </h2>
 
