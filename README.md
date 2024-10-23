@@ -7,7 +7,7 @@ I am an AI product leader with hands-on experience in building and scaling AI pr
 
 - 🥑 **AI Product Manager** at [Tenstorrrent](https://tenstorrent.com/) focused on bridging the gap between state-of-the-art software and the specialized hardware built for AI. 
 
-- 🔭 🗞️ Run a daily AI newsletter [Unwind AI](https://unwindai.substack.com/) that delivers the latest AI developments and best AI tools directly to your inbox.
+- 🔭 🗞️ Run a daily AI newsletter [Unwind AI](https://www.theunwindai.com/) that delivers the latest AI developments and best AI tools directly to your inbox.
 
 - 🌱 I’m looking to meet people working in the area of ML, NLP and Large Language Models with an interest in efficiently and economically training these models for domain specific data to build innovative AI applicaitons.
 
