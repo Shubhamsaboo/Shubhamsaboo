@@ -5,13 +5,13 @@ I am an AI product leader with hands-on experience in building and scaling AI pr
 
 - 📚 Co-author of _**["GPT-3: The Ultimate Guide To Building NLP Products With OpenAI API"](https://www.amazon.com/GPT-3-Ultimate-Building-Products-OpenAI/dp/1805125222/ref=sr_1_9?keywords=gpt3&qid=1676714335&sr=8-9)**_ and _**["Neural Search - From Prototype to Production with Jina"](https://www.amazon.com/Neural-Search-Prototype-Production-learning-powered-dp-1801816824/dp/1801816824/ref=mt_other?_encoding=UTF8&me=&qid=1665648486)**_
 
-- 🥑 **AI Product Manager** at [Tenstorrrent](https://tenstorrent.com/) focused on bridging the gap between state-of-the-art software and the specialized hardware built for AI. 
+- 🥑 **Head of Developer Relations** at [Tenstorrrent](https://tenstorrent.com/) focused on bridging the gap between state-of-the-art software and the specialized hardware built for AI. 
 
 - 🔭 🗞️ Run a daily AI newsletter [Unwind AI](https://www.theunwindai.com/) that delivers the latest AI developments and best AI tools directly to your inbox.
 
 - 🌱 I’m looking to meet people working in the area of ML, NLP and Large Language Models with an interest in efficiently and economically training these models for domain specific data to build innovative AI applicaitons.
 
-- 💬 Talk to me about **_GPT-3_**, **_NLP_** and all things **_Open Source_**!
+- 💬 Talk to me about all things AI Agents and RAG!
 
 
 <h2> Connect with me 🤝 </h2>
