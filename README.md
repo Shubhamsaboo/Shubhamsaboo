@@ -2,7 +2,7 @@
 
 I build AI agents and ship working examples that developers can use right away. 
 
-Most of my work is hands-on: real code, clear patterns, and tested setups for AI Agnets, Multi-agent teams, RAG, tool calling, memory, and local and cloud LLM Apps. 
+Most of my work is hands-on: real code, clear patterns, and tested setups for AI Agents, Multi-agent teams, RAG, tool calling, memory, and local and cloud LLM Apps. 
 
 I run the open-source [Awesome LLM Apps](https://github.com/Shubhamsaboo/awesome-llm-apps), the repo where I drop complete agent templates, clean starter kits, and advanced demos that help devs skip the noise and get straight to building.
 
